@@ -5,3 +5,6 @@ sushi
 wine
 mozarella
 peanut butter
+chips
+dip
+eggs
