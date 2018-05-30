@@ -4,3 +4,6 @@ hummus
 sushi 
 wine
 mozarella
+chips
+dip
+
